@@ -1,6 +1,6 @@
 cask "sakuracord" do
-  version "0.1.5"
-  sha256 "14f368797d8b6baf6a171f8fff9d7d496fadd3da07a9f731e71b788a63db0a64"
+  version "0.1.6"
+  sha256 "6e9513a4d0c4bbbf13db107b3566dcfb995d478448df82271fc529202b6b0389"
 
   url "https://github.com/SakuraCordApp/SakuraCord/releases/download/v#{version}/SakuraCord.v#{version}.dmg"
   name "SakuraCord"
